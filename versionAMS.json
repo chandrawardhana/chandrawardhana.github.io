@@ -4,7 +4,7 @@
   "changelog": "Version Update AMS\n -Version Control Release.\n -Perbaikan Fitur.\n -Support Android 15.\n",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
-  "undermaintenance": true,
+  "undermaintenance": false,
   "maintenanceMessage": "Server AMS sedang dalam perbaikan.\nSilakan coba kembali beberapa saat lagi.\n\nTim IT DevOps.",
   "maintenanceStart": "16/07/2025 20:00",
   "maintenanceUntil": "n/a"
