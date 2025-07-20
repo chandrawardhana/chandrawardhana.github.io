@@ -4,7 +4,7 @@
   "changelog": "Version Update PIP\n -Version Control Release.\n -Perbaikan Fitur.\n -Support Android 15.\n",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
-  "undermaintenance": true,
+  "undermaintenance": false,
   "maintenanceMessage": "Server PIP sedang dalam perbaikan.\nSilakan coba kembali beberapa saat lagi.\n\nTim IT DevOps.",
   "maintenanceStart": "20/07/2025 09:00",
   "maintenanceUntil": "n/a"
