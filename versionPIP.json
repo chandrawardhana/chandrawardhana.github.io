@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "daterelease": "16/07/2025",
-  "changelog": "Version Update PIP\n -Version Control Release.\n -Perbaikan Fitur.\n -Support Android 15.\n",
+  "version": "2.0.2",
+  "daterelease": "24/07/2025",
+  "changelog": "Version Update PIP\n -Tampilan Baru Recording.\n -Perbaikan Stabilitas.\n -Penambahan Fitur Backup Restore Data Lokal.\n -Peningkatan Kinerja Pada Daftar List.\n",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
