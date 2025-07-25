@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "daterelease": "16/07/2025",
-  "changelog": "Version Update AMS\n -Version Control Release.\n -Perbaikan Fitur.\n -Support Android 15.\n",
+  "version": "2.0.2",
+  "daterelease": "24/07/2025",
+  "changelog": "Version Update AMS\n -Tampilan Baru Recording.\n -Perbaikan Stabilitas.\n -Penambahan Fitur Backup Restore Data Lokal.\n -Peningkatan Kinerja Pada Daftar List.\n",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
   "undermaintenance": false,
