@@ -1,7 +1,7 @@
 {
-  "version": "2.0.2",
-  "daterelease": "24/07/2025",
-  "changelog": "Version Update AMS\n -Tampilan Baru Recording.\n -Perbaikan Stabilitas.\n -Penambahan Fitur Backup Restore Data Lokal.\n -Peningkatan Kinerja Pada Daftar List.\n",
+  "version": "2.0.3",
+  "daterelease": "25/07/2025",
+  "changelog": "Version Update AMS\n -Patch Check User Session.\n",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
   "undermaintenance": false,
