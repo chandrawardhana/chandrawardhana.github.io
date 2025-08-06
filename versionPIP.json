@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
-  "daterelease": "31/07/2025",
-  "changelog": "Version Update PIP\n -MiniMap Pointing Farm Input.\n -Additional API Improvements Branch.\n -Bug Fixes and Performance Improvements.\n",
+  "version": "2.0.5",
+  "daterelease": "06/08/2025",
+  "changelog": "Version Update PIP\n -Auto Download Instaler.\n -Fixed Arrival DOC List.\n -New Layout Setting.\n",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
