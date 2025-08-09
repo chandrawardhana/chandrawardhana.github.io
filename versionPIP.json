@@ -1,7 +1,7 @@
 {
   "version": "2.0.5",
   "daterelease": "06/08/2025",
-  "changelog": "Version Update PIP\n -Auto Download Instaler.\n -Fixed Arrival DOC List.\n -New Layout Setting.\n -Fixed Camera Resolution. \n ",
+  "changelog": "Version Update PIP\n -Better Validation UI.\n -Better Scanner QR UI.\n -Improve UI/UX.\n",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
