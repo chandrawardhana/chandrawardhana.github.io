@@ -1,7 +1,7 @@
 {
   "version": "2.0.7",
   "daterelease": "11/08/2025",
-  "changelog": "Version Update AMS\n -Fix Auto Sync Approval.\n -Improve Draft Transaction.\n",
+  "changelog": "Version Update AMS\n -Language Auto Default, Tidak Terpengaruh Bahasa Device.\n -Fix Auto Sync Approval.\n -Improve Draft Transaction.\n",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
   "undermaintenance": false,
