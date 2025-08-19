@@ -4,8 +4,8 @@
   "changelog": "Version Update AMS\n -Language Auto Default, Tidak Terpengaruh Bahasa dan Regional Device.\n -Fix Auto Sync Approval.\n -Improve Draft Transaction.\n",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
-  "undermaintenance": false,
+  "undermaintenance": true,
   "maintenanceMessage": "Server AMS sedang dalam perbaikan.\nSilakan coba kembali beberapa saat lagi.\n\nTim IT DevOps.",
-  "maintenanceStart": "16/07/2025 20:00",
+  "maintenanceStart": "19/08/2025 20:00",
   "maintenanceUntil": "n/a"
 }
