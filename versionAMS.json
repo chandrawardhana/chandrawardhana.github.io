@@ -5,7 +5,7 @@
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
   "undermaintenance": true,
-  "maintenanceMessage": "Server AMS sedang dalam ada gangguan Teknis.\nProvider sedang melakukan perbaikan Infrastruktur.\n\nTim IT DevOps.",
+  "maintenanceMessage": "Server AMS sedang ada gangguan Teknis.\nProvider sedang melakukan perbaikan Infrastruktur.\n\nTim IT DevOps.",
   "maintenanceStart": "19/08/2025 11:37",
-  "maintenanceUntil": "1x24"
+  "maintenanceUntil": "1x24 jam"
 }
