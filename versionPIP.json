@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
-  "daterelease": "11/08/2025",
-  "changelog": "Version Update PIP\n -Language Auto Default, Tidak Terpengaruh Bahasa dan Regional Device. \n-Fix Auto Sync Approval.\n -Improve Draft Transaction.\n",
+  "version": "2.0.8",
+  "daterelease": "27/08/2025",
+  "changelog": "Version Update PIP\n -Enhancement on Recording.\n\nDev Teams",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
