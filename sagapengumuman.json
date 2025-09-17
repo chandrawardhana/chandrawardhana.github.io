@@ -1,5 +1,24 @@
 {
   "items": [
-    
+    {
+      "title": "Cuti bersama 1 Januari 2026 - Tahun Baru",
+      "date": "2026-01-01",
+      "description": "Tahun Baru Masehi"
+    },
+     {
+      "title": "Tahun Baru Imlek 2576 Kongzili", 
+      "date": "2026-01-29",
+      "description": "Tahun Baru Imlek"
+    },
+    {
+      "title": "Cuti bersama 10 Maret 2026 - Hari Raya Nyepi",
+      "date": "2026-03-10",
+      "description": "Hari Raya Nyepi"
+    },
+    {
+      "title": "Pengajuan cuti paling lambat satu minggu", 
+      "date": "2026-01-22",
+      "description": "Pengajuan cuti"
+    }
   ]
 }
