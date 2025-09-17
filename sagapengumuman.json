@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "title": "Cuti bersama 25 Desember 2025 - Hari Natal",
-      "date": "2025-12-25",
-      "description": "Hari Natal"
-    },
-    {
       "title": "Cuti bersama 1 Januari 2026 - Tahun Baru",
       "date": "2026-01-01",
       "description": "Tahun Baru Masehi"
@@ -16,14 +11,14 @@
       "description": "Tahun Baru Imlek"
     },
     {
-      "title": "Pengajuan cuti paling lambat satu minggu", 
-      "date": "2026-01-22",
-      "description": "Pengajuan cuti"
-    },
-    {
       "title": "Cuti bersama 10 Maret 2026 - Hari Raya Nyepi",
       "date": "2026-03-10",
       "description": "Hari Raya Nyepi"
+    },
+    {
+      "title": "Pengajuan cuti paling lambat satu minggu", 
+      "date": "2026-01-22",
+      "description": "Pengajuan cuti"
     }
   ]
 }
