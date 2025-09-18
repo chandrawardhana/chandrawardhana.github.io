@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "daterelease": "09/09/2025",
-  "changelog": "Version Update AMS\n -Security Update.\n -Storage Space Allocation Identifier.\n\nDev Teams",
+  "version": "2.1.2",
+  "daterelease": "18/09/2025",
+  "changelog": "Version Update AMS\n -Perbaikan Minor.\n -Penambahan Setting Device Identifier.\n\nDev Teams",
   "url": "https://app.box.com/s/gnx0b4kragzbzjp9atkyrdytnrlzezde",
 
   "undermaintenance": false,

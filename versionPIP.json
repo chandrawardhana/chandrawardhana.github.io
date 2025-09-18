@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "daterelease": "09/09/2025",
-  "changelog": "Version Update PIP\n -Security Update.\n -Storage Space Allocation Identifier.\n\nDev Teams",
+  "version": "2.1.2",
+  "daterelease": "18/09/2025",
+  "changelog": "Version Update PIP\n -Perbaikan Minor.\n -Penambahan Setting Device Identifier.\n\nDev Teams",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
