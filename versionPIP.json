@@ -1,7 +1,7 @@
 {
-  "version": "2.1.3",
-  "daterelease": "23/09/2025",
-  "changelog": "Version Update PIP\n -Fitur Baru Voice Recognition to Text di Search & Recording Notes History, Farm Catatan, Chickin Evaluation.\n\nDev Teams",
+  "version": "2.1.4",
+  "daterelease": "29/09/2025",
+  "changelog": "Version Update PIP\n -Fix Bug Voice Recognition.\n\nDev Teams",
   "url": "https://app.box.com/s/4xaworxkqv9bw7ovr641j8utlyyzx4hd",
 
   "undermaintenance": false,
