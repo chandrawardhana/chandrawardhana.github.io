@@ -1,8 +1,8 @@
 {
   "source": "Chickin Indonesia",
   "url": "https://chickin.id/blog/update/harga-ayam/",
-  "last_updated": "13 Oktober 2025",
-  "scraped_at": "2025-10-13T13:03:10.069643",
+  "last_updated": "15 Oktober 2025",
+  "scraped_at": "2025-10-15T13:22:26.853217",
   "data_type": "chicken_broiler_livebird_prices",
   "currency": "IDR",
   "unit": "per_kg",
@@ -12,49 +12,49 @@
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "< 1,0",
-      "price_per_kg": "25000",
+      "price_per_kg": "25500",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "1,0 – 1,2",
-      "price_per_kg": "24500",
+      "price_per_kg": "25200",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "1,2 – 1,4",
-      "price_per_kg": "24200",
+      "price_per_kg": "24700",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "1,4 – 1,6",
-      "price_per_kg": "23700",
+      "price_per_kg": "24300",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "1,6 – 1,8",
-      "price_per_kg": "23500",
+      "price_per_kg": "24000",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "1,8 – 2,0",
-      "price_per_kg": "23200",
+      "price_per_kg": "23700",
       "currency": "IDR"
     },
     {
       "region": "Jabodetabek",
       "city": "Jakarta, Bogor, Depak, Tangerang, Bekasi",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "23000",
+      "price_per_kg": "23500",
       "currency": "IDR"
     },
     {
@@ -152,49 +152,49 @@
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "< 1,0",
-      "price_per_kg": "25000",
+      "price_per_kg": "25500",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "1,0 – 1,2",
-      "price_per_kg": "24500",
+      "price_per_kg": "25200",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "1,2 – 1,4",
-      "price_per_kg": "24200",
+      "price_per_kg": "24700",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "1,4 – 1,6",
-      "price_per_kg": "23700",
+      "price_per_kg": "24300",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "1,6 – 1,8",
-      "price_per_kg": "23500",
+      "price_per_kg": "24000",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "1,8 – 2,0",
-      "price_per_kg": "23200",
+      "price_per_kg": "23700",
       "currency": "IDR"
     },
     {
       "region": "Jawa Barat",
       "city": "Sukabumi, Cianjur, Subang dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "23000",
+      "price_per_kg": "23500",
       "currency": "IDR"
     },
     {
@@ -215,14 +215,14 @@
       "region": "Jawa Timur",
       "city": "Surabaya, Malang, Blitar, Kediri, Jember, Lamongan dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "22000-22500",
+      "price_per_kg": "22500-23000",
       "currency": "IDR"
     },
     {
       "region": "Jawa Timur",
       "city": "Surabaya, Malang, Blitar, Kediri, Jember, Lamongan dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "21500-22000",
+      "price_per_kg": "22000-22500",
       "currency": "IDR"
     },
     {
@@ -243,14 +243,14 @@
       "region": "Kalimantan Selatan",
       "city": "Banua Lima (Paringin, Kandangan, Barabai, Amuntai dan Tanjung)",
       "weight_range_kg": "< 1,8",
-      "price_per_kg": "26500",
+      "price_per_kg": "26000",
       "currency": "IDR"
     },
     {
       "region": "Kalimantan Selatan",
       "city": "Banua Lima (Paringin, Kandangan, Barabai, Amuntai dan Tanjung)",
       "weight_range_kg": "> 1,8",
-      "price_per_kg": "26000",
+      "price_per_kg": "25500",
       "currency": "IDR"
     },
     {
@@ -313,28 +313,28 @@
       "region": "Kalimantan Barat",
       "city": "Pontianak, Sambas, Singkawang dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "26000",
+      "price_per_kg": "25500",
       "currency": "IDR"
     },
     {
       "region": "Kalimantan Barat",
       "city": "Pontianak, Sambas, Singkawang dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "25500",
+      "price_per_kg": "25000",
       "currency": "IDR"
     },
     {
       "region": "Sulawesi Selatan/Barat",
       "city": "Makassar, Maros, Sidrap, Parepare, Mamuju dan sekitarnya",
       "weight_range_kg": "< 1,6",
-      "price_per_kg": "21500",
+      "price_per_kg": "21000",
       "currency": "IDR"
     },
     {
       "region": "Sulawesi Selatan/Barat",
       "city": "Makassar, Maros, Sidrap, Parepare, Mamuju dan sekitarnya",
       "weight_range_kg": "> 1,6",
-      "price_per_kg": "21000",
+      "price_per_kg": "20500",
       "currency": "IDR"
     },
     {
@@ -355,14 +355,14 @@
       "region": "Sulawesi Utara",
       "city": "Manado, Minahasa, Kotamobagu dan sekitarnya",
       "weight_range_kg": "< 1,8",
-      "price_per_kg": "24500",
+      "price_per_kg": "22500",
       "currency": "IDR"
     },
     {
       "region": "Sulawesi Utara",
       "city": "Manado, Minahasa, Kotamobagu dan sekitarnya",
       "weight_range_kg": "> 1,8",
-      "price_per_kg": "23500",
+      "price_per_kg": "21500",
       "currency": "IDR"
     },
     {
@@ -383,42 +383,42 @@
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "< 1,0",
-      "price_per_kg": "24000",
+      "price_per_kg": "24500",
       "currency": "IDR"
     },
     {
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "1,0 – 1,2",
-      "price_per_kg": "23500",
+      "price_per_kg": "24200",
       "currency": "IDR"
     },
     {
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "1,2 – 1,4",
-      "price_per_kg": "23200",
+      "price_per_kg": "23700",
       "currency": "IDR"
     },
     {
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "1,4 – 1,6",
-      "price_per_kg": "23000",
+      "price_per_kg": "23500",
       "currency": "IDR"
     },
     {
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "1,6 – 1,8",
-      "price_per_kg": "22800",
+      "price_per_kg": "23300",
       "currency": "IDR"
     },
     {
       "region": "Lampung",
       "city": "Bandar Lampung, Metro, Kalianda, Kotabumi dan sekitarnya",
       "weight_range_kg": "> 1,8",
-      "price_per_kg": "22500",
+      "price_per_kg": "23000",
       "currency": "IDR"
     },
     {
@@ -439,14 +439,14 @@
       "region": "Sumatera Selatan",
       "city": "Lubuklinggau, Muara Enim dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "24000",
+      "price_per_kg": "24500",
       "currency": "IDR"
     },
     {
       "region": "Sumatera Selatan",
       "city": "Lubuklinggau, Muara Enim dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "23500",
+      "price_per_kg": "24000",
       "currency": "IDR"
     },
     {
@@ -481,14 +481,14 @@
       "region": "Jambi",
       "city": "Muara Bungo dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "22000",
+      "price_per_kg": "23000",
       "currency": "IDR"
     },
     {
       "region": "Jambi",
       "city": "Muara Bungo dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "21500",
+      "price_per_kg": "22500",
       "currency": "IDR"
     },
     {
@@ -523,14 +523,14 @@
       "region": "Riau",
       "city": "Pekanbaru, Indragiri Hulu, Pelalawan dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "22000",
+      "price_per_kg": "22500",
       "currency": "IDR"
     },
     {
       "region": "Riau",
       "city": "Pekanbaru, Indragiri Hulu, Pelalawan dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "21500",
+      "price_per_kg": "22000",
       "currency": "IDR"
     },
     {
@@ -565,28 +565,28 @@
       "region": "Bali",
       "city": "Denpasar, Gianyar, Tabanan dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "26000",
+      "price_per_kg": "25000",
       "currency": "IDR"
     },
     {
       "region": "Bali",
       "city": "Denpasar, Gianyar, Tabanan dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "25500",
+      "price_per_kg": "24500",
       "currency": "IDR"
     },
     {
       "region": "NTB",
       "city": "Mataram, Bima, Lombok dan sekitarnya",
       "weight_range_kg": "< 2,0",
-      "price_per_kg": "22500",
+      "price_per_kg": "23000",
       "currency": "IDR"
     },
     {
       "region": "NTB",
       "city": "Mataram, Bima, Lombok dan sekitarnya",
       "weight_range_kg": "> 2,0",
-      "price_per_kg": "22000",
+      "price_per_kg": "22500",
       "currency": "IDR"
     },
     {
