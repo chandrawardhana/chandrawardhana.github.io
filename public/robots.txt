@@ -1,0 +1,63 @@
+# robots.txt — avdeshjadon.dpdns.org
+# Avdesh Jadon — Software Tester & Full Stack Developer
+# https://avdeshjadon.dpdns.org
+
+User-agent: *
+Allow: /
+
+# Explicit allow for all important pages
+Allow: /about
+Allow: /skills
+Allow: /projects
+Allow: /blog
+Allow: /contact
+Allow: /assets/
+Allow: /assets/avdeshjadon.jpeg
+Allow: /assets/profiles/
+Allow: /assets/favicon.svg
+
+# Sitemap location
+Sitemap: https://avdeshjadon.dpdns.org/sitemap.xml
+
+# Crawl-delay (optional, remove if you want max speed)
+# Crawl-delay: 1
+
+# Googlebot — no restrictions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Googlebot Images — allow all profile images for Google Images ranking
+User-agent: Googlebot-Image
+Allow: /assets/avdeshjadon.jpeg
+Allow: /assets/profiles/avdesh-jadon-official-profile.jpg
+Allow: /assets/profiles/avdesh-jadon-developer-portfolio-main.jpg
+Allow: /assets/profiles/avdesh-jadon-nit-jalandhar-cse.jpg
+Allow: /assets/profiles/avdesh-jadon-software-developer-full-stack.jpg
+Allow: /assets/profiles/avdesh-jadon-qa-automation-engineer.jpg
+Allow: /assets/profiles/avdesh-jadon-professional-headshot.jpg
+Allow: /assets/profiles/avdesh-jadon-software-tester-nitj.jpg
+Allow: /assets/profiles/avdesh-jadon-mern-stack-developer.jpg
+Allow: /assets/profiles/avdesh-jadon-javascript-expert.jpg
+Allow: /assets/profiles/avdesh-jadon-coding-expert.jpg
+Allow: /assets/profiles/avdesh-jadon-web-designer-india.jpg
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Yahoo Slurp
+User-agent: Slurp
+Allow: /
+
+# DuckDuckBot
+User-agent: DuckDuckBot
+Allow: /
+
+# Baiduspider
+User-agent: Baiduspider
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
